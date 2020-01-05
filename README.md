@@ -1,0 +1,2 @@
+# phantombot
+Personal phantombot config
